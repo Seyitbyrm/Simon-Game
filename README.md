@@ -30,8 +30,8 @@ cd Simon-Game
 
 Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
 
-1. Bu deposuyla bir çatal (fork) oluşturun.
-2. Kendi yerel bilgisayarınıza çatallanmış deposunu klonlayın.
+1. Bu depoyla bir çatal (fork) oluşturun.
+2. Kendi yerel bilgisayarınıza çatallanmış depoyu klonlayın.
 3. Değişikliklerinizi yapın ve yeni özellikler ekleyin.
 4. Değişikliklerinizi yapmak için bir istek (pull request) gönderin.
 5. İstek incelenip değerlendirilecektir.
